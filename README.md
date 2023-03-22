@@ -30,4 +30,4 @@ Flask
 * Run the Flask application with the following command: python app.py
 
 * Open a web browser and navigate to http://localhost:5000 to start playing the number guessing game.
-# higher-lower
+
